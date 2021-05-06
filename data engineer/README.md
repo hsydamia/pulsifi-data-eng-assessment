@@ -1,6 +1,4 @@
-# Data Engineer
-
-## This is Pulsifi's basic Data Engineer assessment.
+# Pulsifi Data Engineer Assessment
 
 If you are reading this, you most probably have been asked to complete this assessment as part of Pulsifi's interview process.
 
