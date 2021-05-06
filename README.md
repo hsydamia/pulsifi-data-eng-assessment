@@ -1,2 +1,5 @@
 # pulsifi-data-eng-assessment
-Technical assessment for Pulsifi Data Engineer
+
+Welcome to Pulsifi! 
+
+This is your first step to becoming a Pulsifian! <3
