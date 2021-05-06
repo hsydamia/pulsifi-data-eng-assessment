@@ -4,7 +4,7 @@ If you are reading this, you most probably have been asked to complete this asse
 
 In this repository, you will find two different sets of assessments:
 1. Python - assessment.ipynb
-2. SQL - sql.html
+2. SQL - sql.org
 
 You are free to use any library as required to complete the assessments.
 
